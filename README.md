@@ -37,7 +37,7 @@
     -->
   </a>
 
-<h3 align="center">Email List</h3>
+<h3 align="center">Weather App</h3>
 
   <p align="center">
     This web app uses an API to get the weather for the user's inputted area, and displays the weather of that area.
@@ -102,7 +102,9 @@ The intent and purpose behind this project was to build a web app that takes an 
 
 ### Built With
 
-* [Python](https://www.python.org)
+* [HTML5](https://www.w3schools.com/html/)
+* [CSS3](https://www.w3schools.com/css/)
+* [Javascript](https://www.javascript.com)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
